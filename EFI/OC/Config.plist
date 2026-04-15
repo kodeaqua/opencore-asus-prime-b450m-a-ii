@@ -1537,7 +1537,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=11 -radcodec unfairgva=1</string>
+				<string>alcid=11 -radcodec unfairgva=1 -rad24</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
