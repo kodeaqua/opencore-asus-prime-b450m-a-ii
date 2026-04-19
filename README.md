@@ -18,12 +18,12 @@ Simple OpenCore configuration for AMD Ryzen build.
 - **SMBIOS**: `iMacPro1,1`
 - **Audio Layout ID**: `11`
 - **Bootloader**: OpenCore
+- **SecureBootModel**: `Disabled` (can be changed to `j137` or `Default` once installation is complete).
 
 ## Notes
 - This config is compatible with most 6-core Ryzen processors.
 - Remember to generate your own Serial, Board Serial, and UUID.
 - Ensure BIOS settings: Secure Boot (Other OS), Fast Boot (Disabled), CSM (Disabled), Above 4G Decoding (Enabled), Resizeable BAR (Auto).
-- **Troubleshooting**: If you experience a bootloop during installation, set `SecureBootModel` to `Disabled` in your config. You can revert it to `j137` or `Default`.
 
 ---
 *Credits to Acidanthera and AMD OS X team.*
