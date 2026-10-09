@@ -46,6 +46,14 @@
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-Vega56_64.aml</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-Vega56_64.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
