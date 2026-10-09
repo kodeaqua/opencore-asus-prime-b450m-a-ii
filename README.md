@@ -24,6 +24,7 @@ Simple OpenCore configuration for AMD Ryzen build.
 - This config is compatible with most 6-core Ryzen processors.
 - Remember to generate your own Serial, Board Serial, and UUID.
 - Ensure BIOS settings: Secure Boot (Other OS), Fast Boot (Disabled), CSM (Disabled), Above 4G Decoding (Enabled), Resizeable BAR (Auto).
+- From `SMCAMDProcessor-personal`: "Security: -amdpnopchk allows non-root UserClient writes. Use on personal trusted machines only."
 
 ---
 *Credits to Acidanthera and AMD OS X team.*
