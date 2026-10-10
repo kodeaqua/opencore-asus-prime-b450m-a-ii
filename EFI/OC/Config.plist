@@ -596,7 +596,7 @@
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/USBToolBox</string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>24.9.9</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
@@ -614,7 +614,7 @@
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
-				<string></string>
+				<string>24.9.9</string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>PlistPath</key>
